@@ -1,0 +1,11 @@
+{
+  "name": "es5-to-es6",
+  "version": "0.0.0",
+  "description": "CLI to recursively convert all js files to es6.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam <admosity@gmail.com>",
+  "license": "MIT"
+}
